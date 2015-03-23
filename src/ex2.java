@@ -43,7 +43,7 @@ public class ex2 {
         String prima = "P0";
         char[] validaNom;
         boolean ok = false;
-
+        System.out.println("");
         // try {
         ok = true;
         if (numEmpleat < 1 || numEmpleat > 999) {
